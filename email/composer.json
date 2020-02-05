@@ -1,0 +1,8 @@
+//código que baixa o phpmailer. para funcionar é só escrever
+//"composer update" no bash do github
+
+{
+	"require":{
+		"phpmailer/phpmailer": "~6.1"
+	}
+}
